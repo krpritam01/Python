@@ -1,2 +1,2 @@
 # Python
-Python Data Science
+Python For Data Science
